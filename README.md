@@ -1,2 +1,11 @@
 # python關於淺層複製與深層複製
-## 有五個檔案可以做解釋
+# windows創立虛擬環境
+## python -m venv myenv
+
+# 啟動虛擬環境
+## myenv\Scripts\activate
+
+## 退出虛擬環境
+### deactivate
+
+
